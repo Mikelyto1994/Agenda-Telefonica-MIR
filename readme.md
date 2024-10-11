@@ -33,7 +33,7 @@ La API permite realizar las siguientes operaciones:
 **Ruta:** `/info`  
 **Respuesta:**
 
-```json
+```
 Agenda telefónica tiene 4 entradas.
 Thu Oct 10 2024 19:32:38 GMT-0500 (hora estándar de Perú)
 ```
