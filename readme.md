@@ -1,4 +1,4 @@
-# Agenda Telefónica API - Spint 7 Make It Real
+# Agenda Telefónica API - Sprint 7 Make It Real
 
 Esta es una aplicación de servidor construida con Node.js y Express que proporciona una API para gestionar una agenda telefónica.
 
